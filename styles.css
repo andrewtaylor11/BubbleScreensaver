@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    overflow: hidden;
+  }
+  
+  canvas {
+    display: block;
+  }
+  
+  /* Optional: Add some styling for the canvas */
+  #bubbleCanvas {
+    background-color: #000000; /* Set the canvas background color */
+  }
+  
+  
